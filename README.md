@@ -1,73 +1,58 @@
-# 📜 About me
-![status](https://api.statusbadges.me/badge/status/363383882315464705?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/363383882315464705)
-[![spotify](https://api.statusbadges.me/badge/spotify/363383882315464705)](https://api.statusbadges.me/openspotify/363383882315464705)
+<h1 align="center">Hi 👋, I'm V3RM1N</h1>
+<h3 align="center">A Developer from Germany</h3>
 
-```javascript
-const createUser = () => {
-  const user = {
-    name: "V3RM1N",
-    role: "Cyber Security Student",
-    languages: ["German", "English"],
-    interests: ["Cybersecurity", "Psychology", "Stoicism"]
-  };
-
-  const userInfo = `
-    Name: ${user.name}
-    Role: ${user.role}
-    Spoken Languages: ${user.languages.join(", ")}
-    Interests: ${user.interests.join(", ")}
-  `;
-
-  console.log(userInfo);
-};
-
-createUser();
+<div align="center">
+  
+  ![status](https://api.statusbadges.me/badge/status/363383882315464705?simple=true)
+  ![playing](https://api.statusbadges.me/badge/playing/363383882315464705)
+  [![spotify](https://api.statusbadges.me/badge/spotify/363383882315464705)](https://api.statusbadges.me/openspotify/363383882315464705)
+  ![Views](https://komarev.com/ghpvc/?username=v3rm1n0&label=Profile%20views&color=0e75b6&style=flat)
+  
+</div>
 
 
-```
 ## 🛠️ Skills 
 
 <details open>
   <summary><b>📌 Programming languages</b></summary>
   <br>
 
-[![Programming Languages](https://skillicons.dev/icons?i=js,java,cs,bash,nix,php)](https://skillicons.dev)
+![Programming Languages](https://skillicons.dev/icons?i=js,java,cs,bash,nix,php)
 </details>
 
 <details open>
   <summary><b>📚 Libraries and Frameworks</b></summary>
   <br>
 
-[![Libraries and Frameworks](https://skillicons.dev/icons?i=nodejs,bootstrap)](https://skillicons.dev)
+![Libraries and Frameworks](https://skillicons.dev/icons?i=nodejs,bootstrap)
 </details>
 
 <details open>
   <summary><b>🎨 Markup and Style Languages</b></summary>
   <br>
 
-[![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)](https://skillicons.dev)
+![Markup and Style Languages](https://skillicons.dev/icons?i=html,css,markdown)
 </details>
 
 <details open>
   <summary><b>🧠 DevOps</b></summary>
   <br>
 
-[![DevOps Tools](https://skillicons.dev/icons?i=docker,azure)](https://skillicons.dev)
+![DevOps Tools](https://skillicons.dev/icons?i=docker,azure)
 </details>
 
 <details open>
   <summary><b>🗄️ Databases</b></summary>
   <br>
     
-[![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)](https://skillicons.dev)
+![Databases](https://skillicons.dev/icons?i=mysql,postgres,sqlite)
 </details>
 
 <details open>
   <summary><b>🔧 Software and Tools</b></summary>
   <br>
     
-[![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,obsidian)](https://skillicons.dev)
+![Software and Tools](https://skillicons.dev/icons?i=git,github,neovim,linux,obsidian)
 </details>
 
 ## 📊 Github stats and extras
