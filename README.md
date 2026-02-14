@@ -1,3 +1,6 @@
+> [!WARNING]  
+> I have moved to [CodeBerg](https://codeberg.org/v3rm1n/). All new updates and projects will happen there.
+
 <h1 align="center">Hi 👋, I'm V3RM1N</h1>
 <h3 align="center">A Developer from Germany</h3>
 
